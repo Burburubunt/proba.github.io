@@ -567,7 +567,7 @@ h3{
 /* SECTIOM FORM */
 
 .section__form{
-  background-image: url(../img/form/form_bg.png);
+  background-image: url(img/form/form_bg.png);
   background-repeat:no-repeat;
   background-size: cover;
   padding: 130px 0 140px 0;
