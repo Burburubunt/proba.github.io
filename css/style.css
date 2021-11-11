@@ -190,7 +190,7 @@ h3{
 
 /* SECTION SLIDER */
 .section__slider{
-  background-image: url(../img/header/header-bg.png);
+  background-image: url(img/header/header-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
